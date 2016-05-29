@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The .git directory is created. Couse I need to track changes for those files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Couse is a kind of temporal directory and is managed by git but is not a total part of a repository. Great value couse you can work in it before send the files to the repository
+
