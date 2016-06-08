@@ -6,3 +6,23 @@ How is the staging area different from the working directory and the repository?
 
 Couse is a kind of temporal directory and is managed by git but is not a total part of a repository. Great value couse you can work in it before send the files to the repository
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Adding the files that make a logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I need to do different versions or experimental code. There are many branches as experiments
+
+How do the diagrams help you visualize the branch structure?
+
+I can saw the complete structure of branches in one graphical mode
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We have a complete version of code or functionality
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro is that it helps me a lot. Con manually is easy to do automatic
+
