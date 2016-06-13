@@ -14,3 +14,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 To work individually in my changes and then check if anyone else made changes in the remote code.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Nothing could be easier the harder part is I would have to send those changes in files without any help.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to prove or do different things and my master is used without changes.
+
