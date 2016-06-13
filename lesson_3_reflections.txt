@@ -6,3 +6,11 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Manually I always have the control of my code automatically doesn't make sense for me
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is only a github concept, clones is a git and github tool same as branches. Fork when I want to change anothers repo
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To work individually in my changes and then check if anyone else made changes in the remote code.
+
